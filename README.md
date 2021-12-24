@@ -1,2 +1,3 @@
 # ilk-HTML-sayfam
-HTML 
+# VSC' da görmek üzere bazı değişiklikler yapıldı.
+
